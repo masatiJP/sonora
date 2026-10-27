@@ -1,0 +1,6 @@
+Sonora UI Kit — public demo
+Copyright (c) 2026 Riabokon Alexandr. All rights reserved.
+
+This is a demo for preview purposes only. It is not licensed for copying, reuse or redistribution.
+To use Sonora in your own project, buy the full kit (readable source, documentation and licence):
+https://YOURNAME.gumroad.com/l/sonora-ui-kit
